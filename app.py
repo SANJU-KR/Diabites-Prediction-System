@@ -31,7 +31,7 @@ import uuid
 import pytz
 
 #  my string
-uri = "mongodb+srv://project00067:Project123@cluster0.vzzvdti.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+uri = "mongodb+srv://shawkumarsanju5_db_user:Abc%40123@diabetescluster.oxegep6.mongodb.net/?retryWrites=true&w=majority"
 
 # Create MongoDB Client
 client = MongoClient(uri, server_api=ServerApi('1'))
